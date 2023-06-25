@@ -1,0 +1,101 @@
+---
+title: "Yeonjae Lee"
+output: html_document
+---
+
+<style>
+  h1 {
+    text-align: center;
+  }
+</style>
+
+
+<div style="display: flex; justify-content: space-between;">
+  <div>babi3909@naver.com</div>
+  <div>(010)4814-8633</div>
+  <div>Gwanak-gu, Seoul</div>
+</div>
+
+##### **Education**
+<hr style="border: 0.5px solid black;">
+**Hanyang University, Seoul, South Korea**
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Mar.2021 - current</div>
+  <div style="text-align: right;">Seongdong-gu, Seoul</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+- Double major in Chinese Language & Literature and Department of Entrepreneurship
+- Minored in Chinese Economy & Trade Program
+
+##### **Work Experience**
+<hr style="border: 0.5px solid black;">
+**Sem English** - Teaching Assistants
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Jan. 2021 - Apr. 2022</div>
+  <div style="text-align: right;">Dongjak-gu, Seoul</div>
+</div>
+- Provide tutoring to students and perform other tasks necessary to run the academy
+
+
+##### **Aditional Activities**
+<hr style="border: 0.5px solid black;">
+- **중어중문학과 원어연극대**
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Mar.2021 - Aug.2021</div>
+</div>
+  - Performance planning: Plan and organize the schedule, location, and theme of a theater performance
+  - Budgeting: Create a budget for your theater show, track and manage expenses and income
+  - Marketing and publicity: Develop and execute a publicity and marketing strategy for your theater show
+- **중어중문학과 집행부**
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Mar.2021 - Dec.2022</div>
+</div>
+  - Event planning: planning and organizing the topics, objectives, schedules, and venues for various functions and events
+  - Manage partners and sponsors: Recruit and work with the partners and sponsors you need for your event
+- **한양경영연구 HAMA**
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Mar.2022 - Jan.2023</div>
+</div>
+  - Academic exchanges: Participate in academic seminars, company studies, academic festivals, and other events related to the management field
+  - Developing Team Collaboration and Leadership: Experience developing collaboration and leadership as a member of the Management Research Council team
+- **한양스타트업아카데미**
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Sep.2022 - Dec.2022</div>
+</div>
+  - Design Thinking: Learn the designthinking methodology to gain an approach to problem solving and generating innovative ideas
+  - IR writing and pitching: Learn IR (Investor Relations) writing and pitching skills to effectively attract investment
+  - Investments: learn about trends in the investment market, investors' interests, and the investment process, identify investment opportunities, and prepare effective investment proposals
+- **한중문화교류 같이一起** 
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Aug.2022 - Nov.2022</div>
+</div>
+  - Language exchange: Organize and participate in language exchange programs between Korean and Chinese speakers
+  - Cultural event planning: Plan and organize Korean-Chinese cultural events to create a space for cultural exchange
+  - Cultural Exchange Networking: Organize and participate in cross-cultural networking events to create opportunities for communication and exchange with professionals and students in related fields
+
+- **경영전략사고협회 HSTA** 
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left;">Mar.2023 - current </div>
+</div>
+  - Learn strategic consulting: Learn the theory and methodology of strategic consulting through courses on management strategic thinking
+  - Project management experience: Worked on a variety of projects and served in a project management role
+  - Strategic Consulting: Analyzes a company's business environment and business goals, participates in the process of formulating management strategies, and provides strategic direction to improve the organization's competitiveness
+   
+     
+
+##### **Honors & Awards**
+<hr style="border: 0.5px solid black;">
+- **Best Prize at HAMA Academic Festival**
+- **Hyundai Department Store Industry-Academic Cooperation ASL Grand Prize**
+- **2023-1 HY Seedling Plus Awards Excellence Award**
+
+##### **License and Certificate**
+<hr style="border: 0.5px solid black;">
+- **HSK, Grade 4**
+
+knitr::knit("your_resume.Rmd", output = "output.html")
+
+
+
+
